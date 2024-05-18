@@ -1,15 +1,15 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
+  - Procedural programming: 🖐️ used
   - Imperative programming: 
-  - Structured programming: 👂 heard
+  - Structured programming: 🖐️ used
   - Non-structured programming: 
   - Functional programming: 👂 heard
   - Prototype-based programming: 
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 👂 heard
-  - Generic programming: 👂 heard
+  - Generic programming: 🖐️ used
   - Concurrent computing: 🖐️ used
   - Asyncronous programming: 🖐️ used
   - Parallel programming: 🖐️ used
@@ -19,7 +19,7 @@
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming:
-  - Actor model:
+  - Actor model: 👂 heard
 - OOP basics
   - constructor: 🖐️ used
   - new: 🖐️ used
@@ -33,7 +33,7 @@
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: 👂 heard
+  - Abstract class: 🖐️ used
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class: 🎓 known
@@ -50,8 +50,8 @@
   - Strategy: 
   - Facade: 
   - Proxy: 👂 heard
-  - Chain of Responsibility: 👂 heard
-  - Command: 👂 heard
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🖐️ used
   - Iterator: 🖐️ used
   - State: 🖐️ used
   - Bridge: 👂 heard
