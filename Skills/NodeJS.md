@@ -2,14 +2,14 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 
-  - Stateful and stateless servers: 
+  - Stateful and stateless servers: 🖐️ used
   - Nonblocking I/O and slocking code: 
   - Event loop: phases: 
   - Event loop: microtasks and macrotasks: 
-  - Garbage collection: 
+  - Garbage collection: 🖐️ used
   - Node.js LTS schedule: 
   - I/O-bound, CPU-bound, memory-bound tasks: 
-  - Interactive applications (close to real-time): 
+  - Interactive applications (close to real-time): 🖐️ used
 - Modularity, layers and dependencies
   - CommonJS modules: 
   - ECMAScript modules: 
@@ -18,11 +18,11 @@
   - Modules as singletons: 
   - Contexts and scripts node:vm: 
   - Dependencies: npm, node_modules: 
-  - Dependencies: package.json and package lock: 
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model: 
   - Isolation with modularity: 
-  - Dependency injection: 
-  - DI containers: 
+  - Dependency injection: 🖐️ used
+  - DI containers: 🖐️ used
   - Coupling and cohesion: 
   - Framework agnostic approach: 
 - Environment
@@ -40,7 +40,7 @@
   - Web Crypto API: 
   - File system API: sync and async: 
   - Copy folder recursively: 
-  - Worker threads: 
+  - Worker threads: 🖐️ used
   - Performance hooks: 
   - Native fetch and nodejs/undici: 
   - node:async_hooks: 
@@ -53,7 +53,7 @@
   - node:worker_threads: 
   - node:child_process: 
   - MessageChannel, MessagePort: 
-  - BroadcastChannel: 
+  - BroadcastChannel: 🖐️ used
   - Generating crypto random UUID: 
   - node:url vs new URL: 
   - node:assert: 
@@ -61,13 +61,13 @@
   - Blob, File, Buffer, node:buffer: 
   - Module node:zlib: 
 - Application structure and architecture
-  - Isolation between layer: 🎓 known
-  - Multilayer approach: 
-  - Separation of concerns: 🎓 known
-  - Inversion of control: 
-  - Dependency injection: 🎓 known
+  - Isolation between layer: 🖐️ used
+  - Multilayer approach: 🖐️ used
+  - Separation of concerns: 🖐️ used
+  - Inversion of control: 🖐️ used
+  - Dependency injection: 🖐️ used
   - GRASP: 
-  - SOLID: 🎓 known
+  - SOLID: 🖐️ used
   - GoF patterns: 
   - Distributed systems: 👂 heard
   - Highload applications: 👂 heard
@@ -76,7 +76,7 @@
   - Message Queue: 👂 heard
   - CQS: 
   - CQRS: 
-  - Event sourcing: 
+  - Event sourcing: 🖐️ used 
   - Load balancing: 👂 heard
   - Serverless clouds: 
   - FaaS clouds: 
@@ -115,7 +115,7 @@
 - Technique and tools
   - Native test runner:
   - Logging: 🖐️ used
-  - Application configuring: 
+  - Application configuring: 🖐️ used
   - Testing: 🖐️ used
   - CI/CD: 
   - Readable: 🖐️ used

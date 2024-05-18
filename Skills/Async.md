@@ -4,7 +4,7 @@
   - Event loop: 🖐️ used 
   - try..catch: 🖐️ used
   - Non-blocking: 🖐️ used
-  - Async I/O: 
+  - Async I/O: 👂 heard
   - Thread pool: 🖐️ used
   - Pattern Reactor: 
   - CAS operations: 
@@ -18,7 +18,7 @@
   - Live locks: 👂 heard
   - Concurrent programming: 🖐️ used
   - Parallel programming: 🖐️ used
-  - Actor Model: 
+  - Actor Model: 👂 heard
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
@@ -32,12 +32,12 @@
   - Sync generator: 
   - Async Generator: 🖐️ used
   - Async Iterator: 🖐️ used 
-  - Event: 
+  - Event: 🖐️ used
   - Coroutine: 🖐️ used
   - Goroutine: 
   - Signal: 
   - Stream: 🖐️ used
-  - Chain of responsibility: 👂 heard
+  - Chain of responsibility: 🖐️ used
   - Middleware:
   - Locks: 🖐️ used
 - Async adapters and utils
@@ -49,10 +49,10 @@
 - Async abstractions interfaces
   - EventEmitter: 
   - Observable/Observer: 🖐️ used
-  - Readable: 
-  - Writable: 
+  - Readable: 🖐️ used
+  - Writable: 👂 heard
   - Transform: 
-  - Async Pool: 
+  - Async Pool: 👂 heard
   - Async Queue: 🖐️ used 
   - Async Collector: 🖐️ used 
   - Semaphore: 

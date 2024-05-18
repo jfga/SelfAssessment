@@ -2,19 +2,19 @@
 
 - Syntax and concepts
   - value: 🙋 explained
-  - identifier: 🖐️ used
+  - identifier: 🙋 explained
   - variable: 🙋 explained
   - constant: 🙋 explained
   - scalar: 🖐️ used
   - literal: 🙋 explained
   - expression: 🙋 explained
   - heap: 🎓 known
-  - function: 👂 heard
-  - procedure: 👂 heard
-  - method: 🖐️ used
-  - class: 🖐️ used
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🙋 explained
+  - class: 🙋 explained
   - prototype: 👂 heard
-  - event: 👂 heard
+  - event: 🖐️ used
   - type: 🙋 explained
   - primitive types: 🙋 explained
   - reference types: 🙋 explained
@@ -23,7 +23,7 @@
   - code block: 🙋 explained
   - conditions: 🙋 explained
   - loops: 🙋 explained
-  - assignment: 👂 heard
+  - assignment: 🖐️ used
   - regular expression: 🖐️ used
   - interface: 🙋 explained
   - contract: 
@@ -44,7 +44,7 @@
   - callback: 🖐️ used
   - listener: 🖐️ used
   - compose: 🖐️ used
-  - pipe:
+  - pipe:  🖐️ used
   - memoize: 
   - wrapper: 🖐️ used
   - functor:
@@ -58,7 +58,7 @@
   - record: 
   - enum: 🙋 explained
   - instance: 🙋 explained
-  - object: 🎓 known
+  - object: 🙋 explained
   - class: 🙋 explained
   - collection: 🙋 explained
   - set: 🙋 explained
@@ -69,7 +69,7 @@
   - circular list: 
   - queue: 🖐️ used
   - stack: 🙋 explained
-  - deque: 
+  - deque: 🖐️ used
   - tree: 🖐️ used
   - graph: 🎓 known
   - iterator: 🖐️ used
@@ -83,7 +83,7 @@
   - linter: 
   - polyfill: 
   - debugger: 🖐️ used
-  - garbage collection: 🎓 known
+  - garbage collection: 🖐️ used
   - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns: 
